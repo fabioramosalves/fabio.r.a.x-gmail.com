@@ -1,0 +1,18 @@
+.button{
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    border: none;
+    margin-top: 10px;
+    color: #fff;
+}
+
+.button i {
+    font-size: 18px;
+} 
+.button i:hover {
+    background-color:  #fff;
+}
+  .button i:active {
+    background-color: #fff;
+}

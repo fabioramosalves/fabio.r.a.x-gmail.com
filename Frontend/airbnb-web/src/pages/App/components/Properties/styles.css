@@ -1,0 +1,12 @@
+.pin{
+  padding: 5px;
+  background: #fc6963;
+  border: 0;
+  border-radius: 5px;
+}
+
+.pin  a {
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+}

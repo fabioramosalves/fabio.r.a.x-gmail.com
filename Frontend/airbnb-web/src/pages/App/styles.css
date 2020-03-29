@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container button-container{
+position: absolute;
+bottom: 20px;
+right: 10px;
+display: flex;
+flex-direction: column;
+}
